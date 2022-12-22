@@ -1,6 +1,0 @@
-/*fs.appendFile('joueur1',saisie,(err) =>{
-    if (err){
-        console.log(err);
-        return ('bienvenu'+x)
-    }
- })
